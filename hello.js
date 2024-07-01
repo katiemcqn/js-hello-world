@@ -21,3 +21,10 @@ Modify your code on line 7 to try to accomplish the tasks listed below:
    8. Print a message that contains quote marks, such as Quoth the Raven "Nevermore".
    9. Other. You choose!
 */
+
+console.log('Hello, JavaScript.');
+console.log(2001);
+console.log("What","do","commas","do?");
+console.log("Does", "adding",      "space", "matter?");
+console.log('Launch' + 'Code');
+console.log("LaunchCode was founded in", 2013);
